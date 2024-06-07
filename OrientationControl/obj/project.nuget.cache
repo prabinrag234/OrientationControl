@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "prRNcxcdGVQ=",
+  "success": true,
+  "projectFilePath": "C:\\Test Projects\\XamarinForms\\OrientationControl\\OrientationControl\\OrientationControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prabin.Rag\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Prabin.Rag\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Prabin.Rag\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Prabin.Rag\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Prabin.Rag\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://git.claysys.org/DigitalBanking/DigitalBankingApp/_packaging/DigitalBanking_NugetRepo/nuget/v3/index.json."
+    }
+  ]
+}

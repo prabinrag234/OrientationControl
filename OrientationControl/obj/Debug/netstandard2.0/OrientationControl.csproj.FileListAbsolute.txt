@@ -1,0 +1,16 @@
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\bin\Debug\netstandard2.0\OrientationControl.deps.json
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\bin\Debug\netstandard2.0\OrientationControl.dll
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\bin\Debug\netstandard2.0\ref\OrientationControl.dll
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\bin\Debug\netstandard2.0\OrientationControl.pdb
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\OrientationControl.csproj.AssemblyReference.cache
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\OrientationControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\OrientationControl.AssemblyInfoInputs.cache
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\OrientationControl.AssemblyInfo.cs
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\OrientationControl.csproj.CoreCompileInputs.cache
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\OrientationControl.dll
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\refint\OrientationControl.dll
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\OrientationControl.pdb
+C:\Test Projects\XamarinForms\OrientationControl\OrientationControl\obj\Debug\netstandard2.0\NonRotate.xaml.g.cs
