@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gq0JOg8/xunSA4md1rTVMRls0zMPi2DoBjBuJQk5o3E9halRzohrsb4nT5G3KFkFKz+UK2P+AQIvffFL5hdsOw==",
+  "success": true,
+  "projectFilePath": "C:\\Test Projects\\XamarinForms\\OrientationControl\\OrientationControl.iOS\\OrientationControl.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prabin.Rag\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Prabin.Rag\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Prabin.Rag\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
